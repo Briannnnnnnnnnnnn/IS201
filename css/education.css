@@ -1,0 +1,25 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+body{
+    text-align: center;
+}
+.common{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cadetblue;
+}
+.header{
+    background-color:aliceblue;
+}
+.mainbody{
+    background-color: whitesmoke;
+    color: black;
+}
+.footer{
+    background-color:aliceblue;
+    color: darkslategrey;
+}
