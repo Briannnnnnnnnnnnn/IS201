@@ -28,3 +28,10 @@ body{
     background-color: whitesmoke;
     color: black;
 }
+ul{
+    font-size: 25px;
+    color: black;
+}
+p{
+    color:darkcyan;
+}
